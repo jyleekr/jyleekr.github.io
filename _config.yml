@@ -21,10 +21,10 @@ repository               : "jyleekr/jyleekr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profilepic_cropped.png"
   name             : "Jaeyeon Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Economics"
   location         : "Lansing, Michigan"
   employer         : "Michigan State University"
   uri              : # URL
